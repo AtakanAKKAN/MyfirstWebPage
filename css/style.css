@@ -1,0 +1,146 @@
+body {
+  background-color: #E4F9F5;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+hr {
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  border-bottom-style: dotted;
+  border-color: #9FAEAB;
+  border-width: 13px;
+  width: 8%;
+  margin-top: 25px;
+
+}
+
+.bigparagraf{
+  font-size: 24px;
+  font-family: 'Fredoka', sans-serif;
+
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: 'Sacramento', cursive;
+}
+
+h3 {
+  font-family: 'Sacramento', cursive;
+}
+
+.ortala {
+  text-align: center;
+  margin-top: 120px;
+}
+/*####################################SAYFA1####################################*/
+.solüstbulut {
+  position: absolute;
+  right: 400px;
+  top: 60px;
+  height: 64px;
+  width: 200px;
+}
+
+.sagaltbulut {
+  position: absolute;
+  left: 400px;
+  top: 300px;
+  height: 64px;
+  width: 200px;
+}
+
+.dag {
+  position: absolute;
+  bottom: 5px;
+  left: 400px;
+  width: 747.5px;
+  height: 446.25px;
+}
+.selam1{
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.ilksayfasonu{
+  width: 100%;
+  height: 600px;
+}
+/*####################################SAYFA2####################################*/
+
+.ikincisayfa{
+  width: 100%;
+  height: 330px;
+  margin-top: 0;
+}
+
+.ortalaiki{
+  text-align: center;
+  margin-top:20px;
+}
+
+.selam2{
+  width: 250px;
+  height: 250px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+
+/*###################################SAYFA3####################################*/
+.ücüncüsayfa{
+  width: 100%;
+  height: 500px;
+  /*background-color: blue;*/
+  margin-top: 20px;
+}
+
+.ücüncüsayfaresmi{
+  width: 250px;
+  height: 250px;
+  position: relative;
+  top: 16px;
+  left: 0;
+
+}
+
+.ortalaüc{
+  text-align: center;
+  margin-top:20px;
+}
+
+table{
+  margin-left: 100px;
+  margin-top: 40px;
+
+}
+/*##################################SAYFA4######################################*/
+
+.dördüncüsayfa{
+  width: 100%;
+  height: 300px;
+  margin-top: 15px;
+  /*background-color: blue;*/
+}
+
+.ortaladört{
+  text-align: center;
+
+}
+
+.dördüncüsayfaresmi{
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 15px;
+  left: 250px;
+}
